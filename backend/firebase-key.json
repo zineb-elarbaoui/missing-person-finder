@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "messing-person-finder",
+  "private_key_id": "4902af1eceb21ecc3d5e3bdeafaed0aee8545669",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC5FX6P73HcgRe2\naDh8d+rQvcLP1F0nxBGhQAuSBnd5C1WOOPYuZ37aR9fXaaN740mJ2R2QKr7PVgRb\ndUFOMq1jGyNamLCprOZxCJ0Co9XQvmRXvxvQdTiPdQD8lJ74/4B+pgp/xpIW5zxn\nR3/gD6ZOUnRiigxzyFjX//h5kEYOv/OrbIeq1uj3ecrpg7QLQqi0tFX/ap/rZpOC\nHys78N/TkmS09Het18UNH3JUfi9XbIxlT7VnfQVIAuClXxISexWvM++zlH4KIv9W\nrWCAfBAlRJKf81cLDnMIRDdqN20eankgvxPDK7eJcPDv135YChQjLDYWcaNujyor\n9sVs2Lf5AgMBAAECggEAAu8MdLNKyUAsmYzDtHQMKfyQDXj5dGC/F3YV7jMhtVlQ\nz7J8cyuFzxJLdr6Abmghvsh3wlTDIIiQWh4c3Q9K601p/Td6uWh5tfn5JH+8qxSR\nhPM3uXwE26qdoONUNRs2X2DkvWDEPmOySUAmDphWPls/6Aigfjyt7S1BXt/tabIU\noqJ70qqSc0B1N9wmARXUtry//ba7szYJYhZLMORfCGvyKToy1tELkGozyeyxwE3D\nMM17fnkEIUBTQMDxDbB3Qf8KhJgfg4zP9miSD4v5+DEdn50f994Nj+ahHwvpiJJz\nvaWh41HDAXb0Hc9lbEn9iBzmlma7n8/jPhZtL9sv9wKBgQDvXC21IjHb9GtccdhG\n5ipkxgXK2NCnCxZWeqyugTNaVWMZ9aZ3uTLukh+mGr4K+1aaINqDNIhYVTIEnH4W\nCa05mvV3KAiSYsDUmR3sL1C8jvouu4zfmWwuZL7TINSsUuSUJSt7THk5FV9Ofeor\nfWCt2qQ2EskIRmRj6/dHGIzL6wKBgQDF82E1ud/gvSzKeM+55DN2mRjncqbuVaNY\nJaHlyUOuH3AAKM+6n3LXhGFK+5J30WIYPiGVRmvXJTjPnJDcK+pq5Q+lR6lNHYxt\nOOP8z38mXeDMnA2GrvLeQiJHvVKsofZFjxiox/D3UA8b88ruJEiYvCovFxa2imhe\nWDrQxc8GqwKBgBkr7HKcAfpLne6+2iu6kMLAQGOwoWCvvc2iYP6I/8mEKUPVnYgB\npeWI4GMrdMja3aSfx9r8b0o6y2PIwUm4AsuIDEBXqW8bi4PQBmGMKEVsE8tOVeY9\n0C6g0aCKV1M39GnP7t6skCL8qGUswK+KI9yknZhCKXoBTRVk/0AuyL+5AoGAaXiH\nGCBEmDNTtUHvtGVRwmRKb6+YIC9DDElo3M2DITig7YTRQeeJQinHyTMH1I2czbv1\nGttdxFGR1pTeXmGL0o7f6jmnjG4tD1kbqO1KG0Az8fFIB7YZs7DbIQxQC6l0VZWs\nFuoJi0x98G/SdVah07eWZmbP9E0E1Rf/ppNu/mcCgYADJK9DvqbXnqfhJCvDFnzt\n4O5qsKss1g2hJjpgePn7JSyAZoGEJ++rTEK16mxzRoyC8Gy6Yhfu6avFY/+FQ9bO\nddL1img0Bn/4N32/dpOqJ7ocOUmYPEibJ+Ayl63E/CJDmWaCknFZl/h/8/LH7y2h\nw1L9ytIzU4Y2nC17pqGN7g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@messing-person-finder.iam.gserviceaccount.com",
+  "client_id": "100056139717937397295",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40messing-person-finder.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
